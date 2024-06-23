@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Hoje eu estudo programação no Serratec
+- 🌱 Hoje eu estudo para me tornar um profissional full-stack no Serratec
 - 👯 Gosto de aprender novas linguagem e como me aprimorar nelas
 - ⚡ Curiosidades sobre mim: Gosto muito de jogar e assistir futebol nas horas vagas. Também me divirto cozinhando.
 
