@@ -22,7 +22,7 @@
 
 <div style="display: inline-block;"><br>
     <a href="https://www.instagram.com/miguel.mfr/" target="_blank"><img align='center' alt="Mig-Instagram" height="" width="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="guelferreirar@gmail.com" target="_blank"><img align='center' alt="Mig-Gmail" height="" width="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:guelferreirar@gmail.com" target="_blank"><img align='center' alt="Mig-Gmail" height="" width="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://wa.me/5521993221992" target="_blank"><img align='center' alt="Mig-Whatsapp" height="" width="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
