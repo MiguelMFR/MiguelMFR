@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, sou o Miguel 👋
 
-<!--
-**MiguelMFR/MiguelMFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🌱 Hoje eu estudo programação no Serratec
+- 👯 Gosto de aprender novas linguagem e como me aprimorar nelas
+- ⚡ Curiosidades sobre mim: Gosto muito de jogar e assistir futebol nas horas vagas. Também me divirto cozinhando.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div style="display: inline-block; width: 100%;">
+    <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+    <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+    <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+    <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+    <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
+</div>
+
+##
+
+<div style="display: inline-block;"><br>
+    <a href="https://www.instagram.com/miguel.mfr/" target="_blank"><img align='center' alt="Mig-Instagram" height="" width="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="guelferreirar@gmail.com" target="_blank"><img align='center' alt="Mig-Gmail" height="" width="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://wa.me/5521993221992" target="_blank"><img align='center' alt="Mig-Whatsapp" height="" width="" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+
+
