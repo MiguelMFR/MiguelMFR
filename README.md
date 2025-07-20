@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Hoje eu estudo para me tornar um profissional full-stack no Serratec
+- 🌱 Estudo para me tornar um profissional full-stack
 - 👯 Gosto de aprender novas linguagem e como me aprimorar nelas
 - ⚡ Curiosidades sobre mim: Gosto muito de jogar e assistir futebol nas horas vagas. Também me divirto cozinhando.
 
@@ -16,6 +16,7 @@
     <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
     <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
+    <img alt="" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ##
