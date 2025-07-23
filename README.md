@@ -3,9 +3,9 @@
 Desenvolvedor **Full Stack** em formação, com experiência em suporte técnico, banco de dados e cloud. Atualmente na **Alterdata Software**, atuo com migração para nuvem, correção e otimização de bases, e apoio ao time de QA.
 
 📚 Certificações:  
-• AWS Developer – Associate  
-• AWS Cloud Practitioner  
-• Oracle Cloud Foundations (2025)
+• [AWS Developer – Associate](https://www.credly.com/badges/f39e037e-5dce-40e5-8a57-952786919ab1/public_url)  
+• [AWS Cloud Practitioner](https://www.credly.com/badges/165f37f6-2d7f-4d88-b6de-734bd121303b/public_url)  
+• [Oracle Cloud Foundations (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=26988E888E7FFBE44F73B57D8E36FBAC09B2F61278C8CCBCAB3DBCB1D907AF3D)
 
 <div style="display: inline-block; width: 100%;">
   <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
